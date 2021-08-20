@@ -1,6 +1,6 @@
 {
   "name": "discord-templates",
-  "version": "1.2.5",
+  "version": "1.3.9",
   "description": "A package for making bots without the hassle of hours of code",
   "main": "pkg.js",
   "scripts": {
